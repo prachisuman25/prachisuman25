@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on building applications based on Kotlin in Android Studio.
-- 🌱 I’m currently learning javascript and web3.
+
 
 - 👯 I’m looking to collaborate on android based projects.
 
