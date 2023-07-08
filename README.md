@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on building applications based on Kotlin in Android Studio.
+- 🔭 I’m currently working on building applications based on Flutter and Dart.
+- I've worked with Kotlin and Android studio as well.
 
 
-- 👯 I’m looking to collaborate on android based projects.
+- 👯 I’m looking to collaborate on Android based projects.
 
 <!--
 **prachisuman25/prachisuman25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
